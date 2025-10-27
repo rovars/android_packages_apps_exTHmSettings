@@ -123,8 +123,6 @@
     
     <!-- Theme -->
     <string name="theme_title">Theme</string>
-    <!-- YellowPage -->
-    <string name="yellowpage_title">YellowPage</string>
 
     <!-- Adaptive Playback -->
     <string name="media_title">Media</string>
