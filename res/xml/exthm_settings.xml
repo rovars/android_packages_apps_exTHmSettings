@@ -54,12 +54,12 @@
             android:fragment="org.exthmui.settings.fragments.LockScreenSettings"
             android:icon="@drawable/ic_settings_lockscreens"/>
 
-        <!-- Notifications -->
+        <!-- Notifications 
         <Preference
             android:key="notifications_category"
             android:title="@string/notifications_title"
             android:fragment="org.exthmui.settings.fragments.NotificationSettings"
-            android:icon="@drawable/ic_settings_notifications"/>
+            android:icon="@drawable/ic_settings_notifications"/> -->
 
         <!-- Sound -->
         <Preference
